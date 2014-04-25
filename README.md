@@ -1,3 +1,1 @@
-paywall-bypass
-==============
-Pour sauter au dessus d'un paywall
+Gentil petit mouton
